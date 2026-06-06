@@ -6,7 +6,6 @@
 </div>
 <br>
 
-
 <!-- ═══════════════════════════════════════════════════════════
      ROTATING ROLES
 ═══════════════════════════════════════════════════════════════ -->
@@ -17,47 +16,53 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════
-     DIL SE DEVELOPER
+     DIL SE ❤️ DEVELOPER — beating heart between the words
+     Commit beating-heart.svg to repo root to activate animation
 ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=62&pause=99999&color=7FFF00&center=true&vCenter=true&repeat=false&width=720&height=110&lines=Dil+se+Developer" alt="Dil se Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=62&pause=99999&color=7FFF00&center=true&vCenter=true&repeat=false&width=300&height=110&lines=Dil+Se" alt="Dil Se"/>
+  <img src="https://raw.githubusercontent.com/akshay26-ui/akshay26-ui/main/beating-heart.svg" height="80" alt="❤️"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=62&pause=99999&color=7FFF00&center=true&vCenter=true&repeat=false&width=380&height=110&lines=Developer" alt="Developer"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════
      TAGLINE + CONNECT
+     LinkedIn: brand blue bg + white logo = real LinkedIn look
 ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <p>Crafting modern user experiences, scalable web applications, and AI-powered productivity solutions.</p>
   <br/>
   <a href="https://www.linkedin.com/in/akshay-kumar-singh-327280374/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2" height="24" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/mr._akshay_aks">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F" height="24" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="24" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="mailto:akshayandakshay13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=EA4335" height="24" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Gmail"/>
   </a>
 </div>
 
 <br/>
 
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════
-     1. ABOUT — full width
+     1. ABOUT — centered
 ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
 ### <img src="https://img.shields.io/badge/▍-7fff00?style=flat-square" alt=""/> &nbsp;About
+
 I build purposeful digital products at the intersection of design and engineering.
 My work spans React ecosystems, Next.js, modern UI systems, and AI-assisted productivity workflows with n8n.
 Currently expanding into full-stack architecture.
 Open to collaborations, open source, and projects that push the boundary of web experience.
 
+</div>
 
 ---
 
@@ -76,7 +81,7 @@ Open to collaborations, open source, and projects that push the boundary of web 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════
-     3. CURRENT FOCUS — centered, full width
+     3. CURRENT FOCUS — HTML table, smaller font, no header row
 ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -85,12 +90,28 @@ Open to collaborations, open source, and projects that push the boundary of web 
 
 <br/>
 
-| | |
-|:---:|:---|
-| <img src="https://img.shields.io/badge/Building-Full--Stack_Apps-7fff00?style=flat-square&labelColor=000000" alt="Building"/> | React · Node.js · MongoDB |
-| <img src="https://img.shields.io/badge/Learning-Node.js_%26_Backend-7fff00?style=flat-square&labelColor=000000" alt="Learning"/> | Server-Side Engineering |
-| <img src="https://img.shields.io/badge/Building-AI_Productivity_Tools-7fff00?style=flat-square&labelColor=000000" alt="AI"/> | n8n Automation Workflows |
-| <img src="https://img.shields.io/badge/Designing-Modern_UI_Systems-7fff00?style=flat-square&labelColor=000000" alt="Designing"/> | React & Next.js |
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/PRODUCTATHON--IITR_2025-3rd_Place_Winner-7fff00?style=for-the-badge&labelColor=000000" alt="Award"/></td>
+    <td><span style="font-size:12.5px"><strong>IIT Roorkee Hackathon · 2025</strong></span></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Building-Full--Stack_Apps-7fff00?style=for-the-badge&labelColor=000000" alt="Building"/></td>
+    <td><span style="font-size:12.5px"><strong>React · Node.js · MongoDB</strong></span></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Learning-Node.js_%26_Backend-7fff00?style=for-the-badge&labelColor=000000" alt="Learning"/></td>
+    <td><span style="font-size:12.5px"><strong>Server-Side Engineering</strong></span></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Building-AI_Productivity_Tools-7fff00?style=for-the-badge&labelColor=000000" alt="AI"/></td>
+    <td><span style="font-size:12.5px"><strong>n8n Automation Workflows</strong></span></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Designing-Modern_UI_Systems-7fff00?style=for-the-badge&labelColor=000000" alt="Designing"/></td>
+    <td><span style="font-size:12.5px"><strong>React & Next.js</strong></span></td>
+  </tr>
+</table>
 
 </div>
 
@@ -104,14 +125,17 @@ Open to collaborations, open source, and projects that push the boundary of web 
 
 ## Stack
 
-<div align="center"><img src="https://img.shields.io/badge/Frontend-7fff00?style=flat-square&labelColor=000000" alt="Frontend"/></div>
+<!-- ── FRONTEND ─────────────────────────────────────────── -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend-7fff00?style=for-the-badge&labelColor=000000" alt="Frontend"/>
+</div>
 
 <br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" alt="React"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="40" title="Next.js" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" title="Next.js" alt="Next.js"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="JavaScript"/>
   &nbsp;&nbsp;&nbsp;
@@ -128,7 +152,10 @@ Open to collaborations, open source, and projects that push the boundary of web 
 
 <br/><br/>
 
-<div align="center"><img src="https://img.shields.io/badge/Language-7fff00?style=flat-square&labelColor=000000" alt="Language"/></div>
+<!-- ── LANGUAGE ────────────────────────────────────────── -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Language-7fff00?style=for-the-badge&labelColor=000000" alt="Language"/>
+</div>
 
 <br/>
 
@@ -138,66 +165,73 @@ Open to collaborations, open source, and projects that push the boundary of web 
 
 <br/><br/>
 
-<div align="center"><img src="https://img.shields.io/badge/Design-7fff00?style=flat-square&labelColor=000000" alt="Design"/></div>
+<!-- ── DESIGN ──────────────────────────────────────────── -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Design-7fff00?style=for-the-badge&labelColor=000000" alt="Design"/>
+</div>
 
 <br/>
 
+<!--
+  NOTE FOR FRAMER ICON:
+  Commit the included framer.svg file to your repo root (akshay26-ui/akshay26-ui),
+  then the Framer icon below will show as a clean blue logo with no background and no text.
+-->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma" alt="Figma"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/framer/ffffff" height="40" title="Framer" alt="Framer"/>
+  <img src="https://raw.githubusercontent.com/akshay26-ui/akshay26-ui/main/framer.svg" height="40" title="Framer" alt="Framer"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" height="40" title="Adobe Photoshop" alt="Adobe Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=ps" height="40" title="Adobe Photoshop" alt="Adobe Photoshop"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" height="40" title="Adobe Illustrator" alt="Adobe Illustrator"/>
+  <img src="https://skillicons.dev/icons?i=ai" height="40" title="Adobe Illustrator" alt="Adobe Illustrator"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Premiere_Pro-000000?style=flat-square&logo=adobepremierepro&logoColor=9999FF" height="40" title="Adobe Premiere Pro" alt="Adobe Premiere Pro"/>
+  <img src="https://skillicons.dev/icons?i=pr" height="40" title="Adobe Premiere Pro" alt="Adobe Premiere Pro"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/After_Effects-000000?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" height="40" title="Adobe After Effects" alt="Adobe After Effects"/>
+  <img src="https://skillicons.dev/icons?i=ae" height="40" title="Adobe After Effects" alt="Adobe After Effects"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Lightroom-000000?style=flat-square&logo=adobelightroom&logoColor=31A8FF" height="40" title="Adobe Lightroom" alt="Adobe Lightroom"/>
+  <img src="https://skillicons.dev/icons?i=lr" height="40" title="Adobe Lightroom" alt="Adobe Lightroom"/>
 </div>
 
 <br/><br/>
 
-<div align="center"><img src="https://img.shields.io/badge/Tools-7fff00?style=flat-square&labelColor=000000" alt="Tools"/></div>
+<!-- ── TOOLS ───────────────────────────────────────────── -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Tools-7fff00?style=for-the-badge&labelColor=000000" alt="Tools"/>
+</div>
 
 <br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" alt="Git"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/ffffff" height="40" title="GitHub" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" alt="GitHub"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/ffffff" height="40" title="Vercel" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Vercel" alt="Vercel"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" title="Netlify" alt="Netlify"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" title="Netlify" alt="Netlify"/>
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════
-     5. GITHUB — streak + activity + contribution + snake
-        (GitHub Stats card & Top Languages card removed)
+     5. GITHUB — streak + activity graph + snake
 ═══════════════════════════════════════════════════════════════ -->
 
 ## GitHub
 
-<!-- Streak -->
 <div align="center">
   <img width="98%" src="https://streak-stats.demolab.com/?user=akshay26-ui&hide_border=true&background=000000&ring=7FFF00&fire=7FFF00&currStreakLabel=7FFF00&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshay26-ui&bg_color=000000&color=7fff00&line=7fff00&point=ffffff&area=true&area_color=003300&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 <br/>
 
-<!-- Contribution Snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/akshay26-ui/akshay26-ui/snake-output/snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 </div>
@@ -205,7 +239,7 @@ Open to collaborations, open source, and projects that push the boundary of web 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════
-     6. PROJECTS — full width table
+     6. PROJECTS
 ═══════════════════════════════════════════════════════════════ -->
 
 ## Projects
@@ -213,8 +247,8 @@ Open to collaborations, open source, and projects that push the boundary of web 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>HPCL Intel</h3>
-      <p><strong>AI-Powered Sales Intelligence Platform</strong></p>
+      <h2>HPCL Intel</h2>
+      <h4>AI-Powered Sales Intelligence Platform</h4>
       <p>
         <img src="https://img.shields.io/badge/PRODUCTATHON--IITR_2025-3rd_Place_Winner-7fff00?style=flat-square&labelColor=000000" alt="Award"/>
       </p>
@@ -237,8 +271,8 @@ Open to collaborations, open source, and projects that push the boundary of web 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>RishiSphere</h3>
-      <p><strong>Unified Campus Event Ecosystem</strong></p>
+      <h2>RishiSphere</h2>
+      <h4>Unified Campus Event Ecosystem</h4>
       <p>
         <img src="https://img.shields.io/badge/Campus_Platform-Full_Stack-7fff00?style=flat-square&labelColor=000000" alt="Campus Platform"/>
       </p>
@@ -271,14 +305,14 @@ Open to collaborations, open source, and projects that push the boundary of web 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/akshay-kumar-singh-327280374/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/mr._akshay_aks">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="mailto:akshayandakshay13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
