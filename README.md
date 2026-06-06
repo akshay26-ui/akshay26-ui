@@ -1,218 +1,193 @@
-<!-- ============================================================
-     HERO BANNER
-     Upload Github_banner_.png to your repo root before pushing.
-     ============================================================ -->
-
+<!-- ═══════════════════════════════════════════════════════════
+     HERO BANNER — commit Github_banner_.png to repo root
+═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/akshay26-ui/akshay26-ui/main/Github_banner_.png"
-    alt="Akshay Kumar Singh — Frontend Developer & UI/UX Designer"
-    width="100%"
-  />
+  <img src="Github_banner_.png" alt="Akshay Kumar Singh — Frontend Developer & UI/UX Designer" width="100%"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════
+     DIL SE DEVELOPER — Pacifico, Large, Chartreuse
+═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=62&pause=99999&color=7FFF00&center=true&vCenter=true&repeat=false&width=720&height=110&lines=Dil+se+Developer" alt="Dil se Developer"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════
+     ROTATING ROLES — JetBrains Mono typing animation
+═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=600&color=AAAAAA&center=true&vCenter=true&width=660&height=44&lines=Building+Modern+User+Experiences;Crafting+Scalable+Web+Applications;Designing+AI-Powered+Productivity+Tools;Frontend+Developer+%E2%80%A2+UI%2FUX+Designer;Open+Source+Contributor" alt="Rotating roles"/>
 </div>
 
 <br/>
-<br/>
 
-<!-- ============================================================
-     IDENTITY
-     ============================================================ -->
-
+<!-- ═══════════════════════════════════════════════════════════
+     TAGLINE + INLINE CONNECT
+═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <h1>AKSHAY KUMAR SINGH</h1>
-  <p>
-    <strong>Frontend Developer</strong>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <strong>UI/UX Designer</strong>
-  </p>
-  <br/>
-  <p><em>Dil se Developer</em></p>
-  <br/>
-  <p>
-    Crafting modern user experiences, scalable web applications,<br/>
-    and AI-powered productivity solutions.
-  </p>
+  <sub>Crafting modern user experiences, scalable web applications, and AI-powered productivity solutions.</sub>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/akshay-kumar-singh-327280374/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2" height="24" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/mr._akshay_aks">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F" height="24" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:akshayandakshay13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=EA4335" height="24" alt="Email"/>
+  </a>
 </div>
 
-<br/>
 <br/>
 
 ---
 
-<!-- ============================================================
-     ABOUT
-     ============================================================ -->
-
-## About
-
-I build purposeful digital products at the intersection of design and engineering. My work spans React ecosystems, Next.js, modern UI systems, and AI-assisted productivity workflows with n8n. Currently expanding into Node.js and backend architecture to grow into full-stack engineering. Open to collaborations, open source, and projects that push the boundary of web experience.
-
-`Frontend Development` &nbsp; `UI/UX Design` &nbsp; `React Ecosystem` &nbsp; `Next.js` &nbsp; `Full-Stack Applications` &nbsp; `AI Productivity Systems` &nbsp; `n8n Automation` &nbsp; `Open Source`
-
----
-
-<!-- ============================================================
-     CURRENT FOCUS
-     ============================================================ -->
-
-## Current Focus
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════
+     ABOUT + CURRENT FOCUS (left) | CODE B SVG STATS (right)
+     Non-standard 2-column layout — breaks template pattern
+═══════════════════════════════════════════════════════════════ -->
 
 <table>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/PRODUCTATHON--IITR_2025-3rd_Place_Winner-7fff00?style=flat-square&labelColor=000000" alt="PRODUCTATHON-IITR 2025 — 3rd Place Winner"/>
+    <td width="54%" valign="top">
+      <h3><img src="https://img.shields.io/badge/▍-7fff00?style=flat-square" alt=""/> &nbsp;About</h3>
+      <p>
+        I build purposeful digital products at the intersection of design and engineering.
+        My work spans React ecosystems, Next.js, modern UI systems, and AI-assisted productivity workflows with n8n.
+        Currently expanding into Node.js and full-stack architecture.
+        Open to collaborations, open source, and projects that push the boundary of web experience.
+      </p>
+      <br/>
+      <h3><img src="https://img.shields.io/badge/▍-7fff00?style=flat-square" alt=""/> &nbsp;Current Focus</h3>
+      <br/>
+      <table>
+        <tr>
+          <td><img src="https://img.shields.io/badge/PRODUCTATHON--IITR_2025-3rd_Place-7fff00?style=flat-square&labelColor=000000" alt="Award"/></td>
+          <td>IIT Roorkee Hackathon</td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/Building-Full--Stack_Apps-7fff00?style=flat-square&labelColor=000000" alt="Building"/></td>
+          <td>React · Node.js · MongoDB</td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/Learning-Node.js_%26_Backend-7fff00?style=flat-square&labelColor=000000" alt="Learning"/></td>
+          <td>Server-Side Engineering</td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/Building-AI_Productivity_Tools-7fff00?style=flat-square&labelColor=000000" alt="AI"/></td>
+          <td>n8n Automation Workflows</td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/Designing-Modern_UI_Systems-7fff00?style=flat-square&labelColor=000000" alt="Designing"/></td>
+          <td>React & Next.js</td>
+        </tr>
+      </table>
     </td>
-    <td>AI-powered hackathon competition at IIT Roorkee</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Building-Full--Stack_Applications-7fff00?style=flat-square&labelColor=000000" alt="Building Full-Stack Applications"/>
+    <td width="46%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/akshay26-ui/akshay26-ui/stats-output/stats.svg" width="100%" alt="GitHub Stats Graph"/>
+      <br/>
+      <img src="https://raw.githubusercontent.com/akshay26-ui/akshay26-ui/languages-output/languages.svg" width="100%" alt="Top Languages Graph"/>
     </td>
-    <td>React · Node.js · MongoDB · PostgreSQL</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Learning-Node.js_%26_Backend_Architecture-7fff00?style=flat-square&labelColor=000000" alt="Learning Node.js & Backend Architecture"/>
-    </td>
-    <td>Server-Side Engineering</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Building-AI_Productivity_Tools-7fff00?style=flat-square&labelColor=000000" alt="Building AI Productivity Tools"/>
-    </td>
-    <td>n8n Automation Workflows</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Designing-Modern_UI_Systems-7fff00?style=flat-square&labelColor=000000" alt="Designing Modern UI Systems"/>
-    </td>
-    <td>React & Next.js Component Libraries</td>
   </tr>
 </table>
 
-<br/>
-
 ---
 
-<!-- ============================================================
-     STACK
-     ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════
+     STACK — ICONS ONLY, NO TEXT
+═══════════════════════════════════════════════════════════════ -->
 
 ## Stack
 
-**Frontend**
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" alt="React"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=ffffff" height="30" alt="Next.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript" alt="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="TypeScript" alt="TypeScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML5" alt="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" title="CSS3" alt="CSS3"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" title="Tailwind CSS" alt="Tailwind CSS"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" title="Vite" alt="Vite"/>
-</div>
-
-<br/>
-
-**Backend & Database**
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" title="Node.js" alt="Node.js"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=ffffff" height="30" alt="Express.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" title="MongoDB" alt="MongoDB"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" title="PostgreSQL" alt="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logoColor=ffffff" height="30" alt="Mongoose"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Drizzle-000000?style=flat&logo=drizzle&logoColor=C5F74F" height="30" alt="Drizzle ORM"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python" alt="Python"/>
-</div>
-
-<br/>
-
-**Design**
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" title="Figma" alt="Figma"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Framer-000000?style=flat&logo=framer&logoColor=ffffff" height="30" alt="Framer"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Photoshop-000000?style=flat&logo=adobephotoshop&logoColor=31A8FF" height="30" alt="Adobe Photoshop"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Illustrator-000000?style=flat&logo=adobeillustrator&logoColor=FF9A00" height="30" alt="Adobe Illustrator"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Premiere_Pro-000000?style=flat&logo=adobepremierepro&logoColor=9999FF" height="30" alt="Adobe Premiere Pro"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/After_Effects-000000?style=flat&logo=adobeaftereffects&logoColor=9999FF" height="30" alt="Adobe After Effects"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Lightroom-000000?style=flat&logo=adobelightroom&logoColor=31A8FF" height="30" alt="Adobe Lightroom"/>
-</div>
-
-<br/>
-
-**Tools**
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git" alt="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=ffffff" height="30" alt="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=ffffff" height="30" alt="Vercel"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Netlify-000000?style=flat&logo=netlify&logoColor=00C7B7" height="30" alt="Netlify"/>
-</div>
-
----
-
-<!-- ============================================================
-     GITHUB STATS
-     ============================================================ -->
-
-## GitHub
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=akshay26-ui&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
-    height="165"
-    alt="Akshay's GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay26-ui&theme=chartreuse-dark&hide_border=true&layout=compact&count_private=true"
-    height="165"
-    alt="Top Languages"
-  />
-</div>
+<div align="center"><img src="https://img.shields.io/badge/Frontend-7fff00?style=flat-square&labelColor=000000" alt="Frontend"/></div>
 
 <br/>
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=akshay26-ui&theme=chartreuse-dark&hide_border=true"
-    alt="GitHub Streak"
-    width="68%"
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" alt="React"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="40" title="Next.js" alt="Next.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="JavaScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" alt="TypeScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" alt="HTML5"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" alt="CSS3"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS" alt="Tailwind CSS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" title="Vite" alt="Vite"/>
+</div>
+
+<br/><br/>
+
+<div align="center"><img src="https://img.shields.io/badge/Backend_%26_Database-7fff00?style=flat-square&labelColor=000000" alt="Backend & Database"/></div>
+
+<br/>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" alt="Node.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/ffffff" height="40" title="Express.js" alt="Express.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" alt="MongoDB"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" alt="PostgreSQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="40" title="Drizzle ORM" alt="Drizzle ORM"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongoose/880000" height="40" title="Mongoose" alt="Mongoose"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" alt="Python"/>
+</div>
+
+<br/><br/>
+
+<div align="center"><img src="https://img.shields.io/badge/Design-7fff00?style=flat-square&labelColor=000000" alt="Design"/></div>
+
+<br/>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma" alt="Figma"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/framer/ffffff" height="40" title="Framer" alt="Framer"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" title="Adobe Photoshop" alt="Adobe Photoshop"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" title="Adobe Illustrator" alt="Adobe Illustrator"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" title="Adobe Premiere Pro" alt="Adobe Premiere Pro"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" title="Adobe After Effects" alt="Adobe After Effects"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" height="40" title="Adobe Lightroom" alt="Adobe Lightroom"/>
+</div>
+
+<br/><br/>
+
+<div align="center"><img src="https://img.shields.io/badge/Tools-7fff00?style=flat-square&labelColor=000000" alt="Tools"/></div>
+
+<br/>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" alt="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="40" title="GitHub" alt="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" height="40" title="Vercel" alt="Vercel"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" title="Netlify" alt="Netlify"/>
 </div>
 
 ---
 
-<!-- ============================================================
+<!-- ═══════════════════════════════════════════════════════════
      FEATURED PROJECTS
-     ============================================================ -->
+═══════════════════════════════════════════════════════════════ -->
 
 ## Projects
 
@@ -222,7 +197,7 @@ I build purposeful digital products at the intersection of design and engineerin
       <h3>HPCL Intel</h3>
       <p><strong>AI-Powered Sales Intelligence Platform</strong></p>
       <p>
-        <img src="https://img.shields.io/badge/PRODUCTATHON--IITR_2025-3rd_Place_Winner-7fff00?style=flat-square&labelColor=000000" alt="PRODUCTATHON-IITR 2025 — 3rd Place Winner"/>
+        <img src="https://img.shields.io/badge/PRODUCTATHON--IITR_2025-3rd_Place_Winner-7fff00?style=flat-square&labelColor=000000" alt="Award"/>
       </p>
       <p>AI-powered sales intelligence platform leveraging web scraping, analytics, and automation to deliver actionable business insights.</p>
       <p>
@@ -246,15 +221,15 @@ I build purposeful digital products at the intersection of design and engineerin
       <h3>RishiSphere</h3>
       <p><strong>Unified Campus Event Ecosystem</strong></p>
       <p>
-        <img src="https://img.shields.io/badge/Campus_Platform-Full_Stack-7fff00?style=flat-square&labelColor=000000" alt="Campus Platform — Full Stack"/>
+        <img src="https://img.shields.io/badge/Campus_Platform-Full_Stack-7fff00?style=flat-square&labelColor=000000" alt="Campus Platform"/>
       </p>
       <p>One calendar for every campus event. Eliminates scheduling conflicts, centralizes participation, and gives administrators complete visibility into campus activity.</p>
       <p>
         <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind"/>
         <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/Drizzle-000000?style=flat-square&logo=drizzle&logoColor=C5F74F" alt="Drizzle ORM"/>
+        <img src="https://img.shields.io/badge/Drizzle-000000?style=flat-square&logo=drizzle&logoColor=C5F74F" alt="Drizzle"/>
       </p>
       <p>
         <a href="https://github.com/akshay26-ui/RishiSphere">
@@ -271,14 +246,67 @@ I build purposeful digital products at the intersection of design and engineerin
 
 ---
 
-<!-- ============================================================
+<!-- ═══════════════════════════════════════════════════════════
+     GITHUB STATS
+     shion.dev = self-hosted mirror, no rate-limiting like vercel.app
+     demolab   = maintained streak service (herokuapp is deprecated)
+═══════════════════════════════════════════════════════════════ -->
+
+## GitHub
+
+<!-- Row 1 — Stats card (49%) + Top Languages (49%) -->
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=akshay26-ui&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=7fff00&icon_color=7fff00&text_color=f5f5f5&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=akshay26-ui&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=7fff00&text_color=f5f5f5" alt="Top Languages"/>
+
+</div>
+
+<br>
+
+<!-- Row 2 — Streak (98%) -->
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com/?user=akshay26-ui&hide_border=true&background=000000&ring=7FFF00&fire=7FFF00&currStreakLabel=7FFF00&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5" alt="GitHub Streak"/>
+
+</div>
+
+<br>
+
+<!-- Row 3 — Activity Graph (98%) -->
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshay26-ui&bg_color=000000&color=7fff00&line=7fff00&point=ffffff&area=true&area_color=003300&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+<br>
+
+<!-- Row 4 — Profile Summary / Contribution Metrics (98%) -->
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay26-ui&theme=github_dark" alt="GitHub Contribution Metrics"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════
+     CONTRIBUTION SNAKE — full width
+═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/akshay26-ui/akshay26-ui/snake-output/snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════
      CONNECT
-     ============================================================ -->
+═══════════════════════════════════════════════════════════════ -->
 
-## Connect
-
-<div>
-  <a href="https://linkedin.com/in/akshay-kumar-singh-327280374">
+<div align="center">
+  <a href="https://www.linkedin.com/in/akshay-kumar-singh-327280374/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -289,20 +317,4 @@ I build purposeful digital products at the intersection of design and engineerin
   <a href="mailto:akshayandakshay13@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
-</div>
-
-<br/>
-<br/>
-
----
-
-<!-- ============================================================
-     CONTRIBUTION SNAKE
-     ============================================================ -->
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/akshay26-ui/akshay26-ui/snake-output/snake.svg"
-    alt="GitHub Contribution Snake"
-  />
 </div>
