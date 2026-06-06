@@ -16,32 +16,29 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════
-     DIL SE ❤️ DEVELOPER — beating heart between the words
-     Commit beating-heart.svg to repo root to activate animation
+     DIL SE ❤️ DEVELOPER
 ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=62&pause=99999&color=7FFF00&center=true&vCenter=true&repeat=false&width=300&height=110&lines=Dil+Se" alt="Dil Se"/>
-  <img src="https://raw.githubusercontent.com/akshay26-ui/akshay26-ui/main/beating-heart.svg" height="80" alt="❤️"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=62&pause=99999&color=7FFF00&center=true&vCenter=true&repeat=false&width=380&height=110&lines=Developer" alt="Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=62&pause=99999&color=7FFF00&center=true&vCenter=true&repeat=false&width=900&height=110&lines=Dil+Se+%E2%9D%A4%EF%B8%8F+Developer" alt="❤️ Dil Se Developer"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════
      TAGLINE + CONNECT
-     LinkedIn: brand blue bg + white logo = real LinkedIn look
+     LinkedIn: raw SVG from skill-icons (real blue square with "in")
 ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <p>Crafting modern user experiences, scalable web applications, and AI-powered productivity solutions.</p>
   <br/>
   <a href="https://www.linkedin.com/in/akshay-kumar-singh-327280374/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/mr._akshay_aks">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="24" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="mailto:akshayandakshay13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail"/>
   </a>
 </div>
 
@@ -133,21 +130,21 @@ Open to collaborations, open source, and projects that push the boundary of web 
 <br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="56" title="React" alt="React"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" title="Next.js" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="56" title="Next.js" alt="Next.js"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56" title="JavaScript" alt="JavaScript"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="56" title="TypeScript" alt="TypeScript"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" title="HTML5" alt="HTML5"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="56" title="CSS3" alt="CSS3"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="56" title="Tailwind CSS" alt="Tailwind CSS"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" title="Vite" alt="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="56" title="Vite" alt="Vite"/>
 </div>
 
 <br/><br/>
@@ -160,37 +157,28 @@ Open to collaborations, open source, and projects that push the boundary of web 
 <br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56" title="Python" alt="Python"/>
 </div>
 
 <br/><br/>
 
-<!-- ── DESIGN ──────────────────────────────────────────── -->
+<!-- ── DESIGN — single row, no Lightroom ─────────────────── -->
 <div align="center">
   <img src="https://img.shields.io/badge/Design-7fff00?style=for-the-badge&labelColor=000000" alt="Design"/>
 </div>
 
 <br/>
 
-<!--
-  NOTE FOR FRAMER ICON:
-  Commit the included framer.svg file to your repo root (akshay26-ui/akshay26-ui),
-  then the Framer icon below will show as a clean blue logo with no background and no text.
--->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="56" title="Figma" alt="Figma"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/akshay26-ui/akshay26-ui/main/framer.svg" height="40" title="Framer" alt="Framer"/>
+  <img src="https://skillicons.dev/icons?i=ps" height="56" title="Adobe Photoshop" alt="Adobe Photoshop"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ps" height="40" title="Adobe Photoshop" alt="Adobe Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=ai" height="56" title="Adobe Illustrator" alt="Adobe Illustrator"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ai" height="40" title="Adobe Illustrator" alt="Adobe Illustrator"/>
+  <img src="https://skillicons.dev/icons?i=pr" height="56" title="Adobe Premiere Pro" alt="Adobe Premiere Pro"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pr" height="40" title="Adobe Premiere Pro" alt="Adobe Premiere Pro"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ae" height="40" title="Adobe After Effects" alt="Adobe After Effects"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=lr" height="40" title="Adobe Lightroom" alt="Adobe Lightroom"/>
+  <img src="https://skillicons.dev/icons?i=ae" height="56" title="Adobe After Effects" alt="Adobe After Effects"/>
 </div>
 
 <br/><br/>
@@ -203,13 +191,13 @@ Open to collaborations, open source, and projects that push the boundary of web 
 <br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56" title="Git" alt="Git"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" height="56" title="GitHub" alt="GitHub"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Vercel" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="56" title="Vercel" alt="Vercel"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" title="Netlify" alt="Netlify"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="56" title="Netlify" alt="Netlify"/>
 </div>
 
 ---
