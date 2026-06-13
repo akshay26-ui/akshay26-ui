@@ -89,10 +89,6 @@ Open to collaborations, open source, and projects that push the boundary of web 
 
 <table>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/PRODUCTATHON--IITR_2025-3rd_Place_Winner-7fff00?style=for-the-badge&labelColor=000000" alt="Award"/></td>
-    <td><span style="font-size:12.5px"><strong>IIT Roorkee Hackathon · 2025</strong></span></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://img.shields.io/badge/Building-Full--Stack_Apps-7fff00?style=for-the-badge&labelColor=000000" alt="Building"/></td>
     <td><span style="font-size:12.5px"><strong>React · Node.js · MongoDB</strong></span></td>
   </tr>
@@ -102,11 +98,15 @@ Open to collaborations, open source, and projects that push the boundary of web 
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Building-AI_Productivity_Tools-7fff00?style=for-the-badge&labelColor=000000" alt="AI"/></td>
-    <td><span style="font-size:12.5px"><strong>n8n Automation Workflows</strong></span></td>
+    <td><span style="font-size:12.5px, align:center" "><strong>n8n Automation Workflows</strong></span></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Designing-Modern_UI_Systems-7fff00?style=for-the-badge&labelColor=000000" alt="Designing"/></td>
     <td><span style="font-size:12.5px"><strong>React & Next.js</strong></span></td>
+  </tr>
+       <tr>
+    <td align="center"><img src="https://img.shields.io/badge/PRODUCTATHON--IITR_2025-3rd_Place_Winner-7fff00?style=for-the-badge&labelColor=000000" alt="Award"/></td>
+    <td><span style="font-size:12.5px"><strong>IIT Roorkee Hackathon · 2025</strong></span></td>
   </tr>
 </table>
 
